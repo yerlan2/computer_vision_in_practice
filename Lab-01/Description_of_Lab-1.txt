@@ -1,0 +1,14 @@
+Description of Lab 1
+
+ENG:
+1) Convert uploaded image to Grayscale then quantise image to 2 , 4 and 6 bits;
+2) Convert uploaded image to CMY, YUV and HLS color spaces;
+3) Add noises (Gaussian and "Salt & Pepper");
+4) Smoothe image after each noises ps.
+
+RUS:
+1) Преобразование загруженного изображения в градации серого, затем квантизация изображения в 2, 4 и 6 бит;
+2) Преобразовать загруженное изображение в цветовые пространства CMY, YUV и HLS;
+3) Добавить шумы (Гаусс и "Соль и перец");
+4) Сгладить изображение после каждого шума пс.
+
